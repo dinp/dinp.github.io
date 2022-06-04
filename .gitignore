@@ -1,0 +1,7 @@
+node_modules
+public
+docs
+resources
+.netlify
+.hugo_build.lock
+.DS_Store
